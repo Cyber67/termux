@@ -1,0 +1,2 @@
+# termux
+Guhkn345
